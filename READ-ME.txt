@@ -1,11 +1,11 @@
   =>  Template Name    : Arkitektur - Architecture HTML Template
 
-  =>  Template Link    : https://htmlcodex.com/architecture-html-template
+  =>  Template Link    : https://www.technove24.com/architecture-html-template
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://www.technove24.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Technove
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://www.technove24.com
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Technove : Technove is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://www.technove24.com/about-us )<a href="https://www.technove24.com">Technove</a>
