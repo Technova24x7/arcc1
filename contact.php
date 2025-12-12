@@ -83,12 +83,12 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu border-0 m-0">
-                        <a href="feature.html" class="dropdown-item">Our Features</a>
-                        <a href="project.html" class="dropdown-item">Our Projects</a>
-                        <a href="team.html" class="dropdown-item">Team Members</a>
-                        <a href="appointment.html" class="dropdown-item">Appointment</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a>
+                        <a href="feature.php" class="dropdown-item">Our Features</a>
+                        <a href="project.php" class="dropdown-item">Our Projects</a>
+                        <a href="team.php" class="dropdown-item">Team Members</a>
+                        <a href="appointment.php" class="dropdown-item">Appointment</a>
+                        <a href="testimonial.php" class="dropdown-item">Testimonial</a>
+                        <a href="404.php" class="dropdown-item">404 Page</a>
                     </div>
                 </div>
                 <a href="contact.html" class="nav-item nav-link active">Contact</a>
